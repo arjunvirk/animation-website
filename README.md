@@ -25,3 +25,6 @@ This is a modern, animated website that uses smooth scrolling with Locomotive Sc
 - [GSAP (GreenSock)](https://greensock.com/gsap/)
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
 
+--
+
+// note (This website is only for big screens (not responsive))
