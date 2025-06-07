@@ -270,7 +270,7 @@
   }
 
   .page5 {
-      min-height: 75vh;
+      min-height: 90vh;
       width: 100%;
       /* background-color: red; */
       position: relative;
@@ -297,18 +297,4 @@
 
   .box:nth-last-child(1) {
       border-bottom: 2px solid #dadada;
-  }
-
-  footer {
-      height: 40vh;
-      width: 100vw;
-  }
-
-  footer h1 {
-      text-transform: uppercase;
-      padding: 20px;
-      font-size: 3vw;
-      text-align: center;
-      padding-top: 9%;
-      color: #000;
   }
