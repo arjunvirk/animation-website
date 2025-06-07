@@ -72,18 +72,6 @@ window.addEventListener("DOMContentLoaded", function () {
 
     tl3.to("#main", { backgroundColor: "#0F0D0D" });
 
-    gsap.to("footer", {
-        backgroundColor: "#fff",
-        color: "#111",
-        scrollTrigger: {
-            trigger: "footer",
-            scroller: "#main",
-            start: "top 110%",
-            end: "top 35%",
-            scrub: 1
-        }
-    });
-
     const boxes = document.querySelectorAll(".box");
     boxes.forEach((item) => {
         item.addEventListener("mouseenter", () => {
