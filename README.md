@@ -6,7 +6,7 @@ This is a modern, animated website that uses smooth scrolling with Locomotive Sc
 
 ## 🌐 Live Preview
 
-[Click here to view the demo](https://your-demo-link.vercel.app)
+[Click here to view the demo](https://animation-website-pied.vercel.app/)
 
 ---
 
